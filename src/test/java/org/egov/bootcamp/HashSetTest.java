@@ -10,5 +10,4 @@ public class HashSetTest {
         assertEquals(1, 1);
     }
 
-
 }
